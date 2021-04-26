@@ -1,21 +1,3 @@
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* （因写的代码太菜拿不出手，github上暂时没东西）
-
-<a href="https://sekibetu.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SekiBetu&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="SekiBetu's github stats" />
-</a>
-
-<a href="https://sekibetu.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekiBetu&layout=compact&theme=material-palenight" /> 
-</a>
-
-<a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ryanhanwu&repo=How-To-Ask-Questions-The-Smart-Way&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/StylishThemes/GitHub-Dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StylishThemes&repo=GitHub-Dark&theme=material-palenight" />
-</a>     
- 
 ### PGP Key
 
 ```
@@ -34,9 +16,30 @@ GwwFCQHhI24ACgkQhnUoAuF98jt8MwEA6NuVp7yLAsAigewue+0rrq7zW0lX72rL
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* （因写的代码太菜拿不出手，github上暂时没东西）
+
+<a href="https://sekibetu.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SekiBetu&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="SekiBetu's github stats" />
+</a>
+
+<a href="https://sekibetu.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekiBetu&layout=compact&theme=material-palenight" /> 
+</a>
+
+<a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ryanhanwu&repo=How-To-Ask-Questions-The-Smart-Way&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/StylishThemes/GitHub-Dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StylishThemes&repo=GitHub-Dark&theme=material-palenight" />
+</a>     
+
+<details>
+  <summary>关于mlgmxyysd的黑泥</summary>
 ```
 When you can't fix the bug, fix the person who gave you the advice. 
                                                             ——mlgmxyysd
 ```
 https://github.com/ElderDrivers/EdXposed/issues/837
 ![image](https://user-images.githubusercontent.com/38283893/113414692-32e16b00-93f0-11eb-91fa-b93368c81617.png)
+</details>
