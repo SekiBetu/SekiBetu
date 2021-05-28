@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=SekiBetu)
-
 ### PGP Key
 
 ```
@@ -46,3 +44,5 @@ When you can't fix the bug, fix the person who gave you the advice.
 https://github.com/ElderDrivers/EdXposed/issues/837
 ![image](https://user-images.githubusercontent.com/38283893/113414692-32e16b00-93f0-11eb-91fa-b93368c81617.png)
 </details>
+
+![](https://komarev.com/ghpvc/?username=SekiBetu)
