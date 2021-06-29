@@ -35,11 +35,11 @@ GwwFCQHhI24ACgkQhnUoAuF98jt8MwEA6NuVp7yLAsAigewue+0rrq7zW0lX72rL
 </a>     
 
 <details>
-  <summary>关于mlgmxyysd的黑泥</summary>
+  <summary>关于 https://github.com/MlgmXyysd 的黑泥</summary>
   
 ```
 When you can't fix the bug, fix the person who gave you the advice. 
-                                                            ——mlgmxyysd
+                                                            ——MlgmXyysd
 ```
 https://github.com/ElderDrivers/EdXposed/issues/837
 ![image](https://user-images.githubusercontent.com/38283893/113414692-32e16b00-93f0-11eb-91fa-b93368c81617.png)
