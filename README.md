@@ -45,4 +45,6 @@ https://github.com/ElderDrivers/EdXposed/issues/837
 ![image](https://user-images.githubusercontent.com/38283893/113414692-32e16b00-93f0-11eb-91fa-b93368c81617.png)
 </details>
 
+https://github.com/ElderDrivers/EdXposed/pull/870
+
 ![](https://komarev.com/ghpvc/?username=SekiBetu)
