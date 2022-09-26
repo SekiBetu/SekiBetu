@@ -2,8 +2,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=SekiBetu&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="SekiBetu's github stats" />
 </a>
 
-写的项目大多都是重复造轮子，没啥创新价值，所以github上暂时没东西
-
 ![](https://komarev.com/ghpvc/?username=SekiBetu)
 
 - [My SSH Public Key](https://github.com/SekiBetu.keys)
